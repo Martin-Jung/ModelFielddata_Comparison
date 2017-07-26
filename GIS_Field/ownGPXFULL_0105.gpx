@@ -1,0 +1,1066 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="-3.512264000000000" minlon="37.336716000000003" maxlat="-3.275162000000000" maxlon="38.385528999999998"/></metadata>                  
+<wpt lat="-3.45873" lon="38.365614">
+  <ele>1033.747803</ele>
+  <time>2014-04-01T03:52:23Z</time>
+  <name>032</name>
+  <extensions>
+    <ogr:PlotID>K032</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.38394" lon="37.441396">
+  <ele>782.308533</ele>
+  <time>2014-05-01T03:16:04Z</time>
+  <name>087</name>
+  <extensions>
+    <ogr:PlotID>K087</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.296006" lon="37.454113">
+  <ele>1604.28125</ele>
+  <time>2014-05-01T03:44:07Z</time>
+  <name>089</name>
+  <extensions>
+    <ogr:PlotID>K089</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.289256" lon="37.455262">
+  <ele>1650.219849</ele>
+  <time>2014-05-01T04:17:51Z</time>
+  <name>090</name>
+  <extensions>
+    <ogr:PlotID>K090</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.297932" lon="37.454027">
+  <ele>1600.568115</ele>
+  <time>2014-05-01T04:40:39Z</time>
+  <name>091</name>
+  <extensions>
+    <ogr:PlotID>K091</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.303805" lon="37.457734">
+  <ele>1562.26123</ele>
+  <time>2014-05-01T04:58:05Z</time>
+  <name>092</name>
+  <extensions>
+    <ogr:PlotID>K092</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.314242" lon="37.464583">
+  <ele>1506.906494</ele>
+  <time>2014-05-01T05:34:53Z</time>
+  <name>093</name>
+  <extensions>
+    <ogr:PlotID>K093</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.323878" lon="37.466969">
+  <ele>1448.015381</ele>
+  <time>2014-05-01T06:12:55Z</time>
+  <name>094</name>
+  <extensions>
+    <ogr:PlotID>K094</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.355427" lon="37.341878">
+  <ele>830.476807</ele>
+  <time>2014-05-01T07:56:35Z</time>
+  <name>095</name>
+  <extensions>
+    <ogr:PlotID>K095</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.357396" lon="37.340253">
+  <ele>831.111084</ele>
+  <time>2014-05-01T08:05:44Z</time>
+  <name>096</name>
+  <extensions>
+    <ogr:PlotID>K096</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.413137" lon="38.297933">
+  <ele>2023.632935</ele>
+  <time>2014-04-02T04:23:53Z</time>
+  <name>033</name>
+  <extensions>
+    <ogr:PlotID>K033</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.413973" lon="38.295253">
+  <ele>2098.66723599999978</ele>
+  <time>2014-04-02T04:50:53Z</time>
+  <name>034</name>
+  <extensions>
+    <ogr:PlotID>K034</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.414656" lon="38.293249">
+  <ele>2142.194824</ele>
+  <time>2014-04-02T05:03:30Z</time>
+  <name>035</name>
+  <extensions>
+    <ogr:PlotID>K035</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.411398" lon="38.297639">
+  <ele>2001.15795899999989</ele>
+  <time>2014-04-02T05:34:14Z</time>
+  <name>036</name>
+  <extensions>
+    <ogr:PlotID>K036</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.406034" lon="38.30038">
+  <ele>1989.934326</ele>
+  <time>2014-04-02T06:05:49Z</time>
+  <name>037</name>
+  <extensions>
+    <ogr:PlotID>K037</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.404188" lon="38.305277">
+  <ele>1877.140381</ele>
+  <time>2014-04-02T07:01:11Z</time>
+  <name>038</name>
+  <extensions>
+    <ogr:PlotID>K038</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.372598" lon="38.340664">
+  <ele>1802.10791</ele>
+  <time>2014-04-03T03:54:45Z</time>
+  <name>039</name>
+  <extensions>
+    <ogr:PlotID>K039</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.370282" lon="38.340663">
+  <ele>1833.601807</ele>
+  <time>2014-04-03T04:13:51Z</time>
+  <name>040</name>
+  <extensions>
+    <ogr:PlotID>K040</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.36647" lon="38.340806">
+  <ele>1880.875122</ele>
+  <time>2014-04-03T04:32:51Z</time>
+  <name>041</name>
+  <extensions>
+    <ogr:PlotID>K041</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.354371" lon="38.337128">
+  <ele>1799.118286</ele>
+  <time>2014-04-03T06:12:56Z</time>
+  <name>042</name>
+  <extensions>
+    <ogr:PlotID>K042</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.353503" lon="38.340016">
+  <ele>1821.391968</ele>
+  <time>2014-04-03T06:38:42Z</time>
+  <name>043</name>
+  <extensions>
+    <ogr:PlotID>K043</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.503475" lon="38.382207">
+  <ele>844.532043</ele>
+  <time>2014-04-05T04:05:48Z</time>
+  <name>044</name>
+  <extensions>
+    <ogr:PlotID>K044</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.507048" lon="38.382364">
+  <ele>839.432373</ele>
+  <time>2014-04-05T04:30:23Z</time>
+  <name>005</name>
+  <extensions>
+    <ogr:PlotID>K005</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.488867" lon="38.378372">
+  <ele>859.322327</ele>
+  <time>2014-04-05T07:34:39Z</time>
+  <name>045</name>
+  <extensions>
+    <ogr:PlotID>K045</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.481177" lon="38.381896">
+  <ele>841.079834</ele>
+  <time>2014-04-05T07:58:34Z</time>
+  <name>046</name>
+  <extensions>
+    <ogr:PlotID>K046</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.477444" lon="38.342337">
+  <ele>1582.132446</ele>
+  <time>2014-04-07T03:28:23Z</time>
+  <name>047</name>
+  <extensions>
+    <ogr:PlotID>K047</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.476218" lon="38.339641">
+  <ele>1556.986206</ele>
+  <time>2014-04-07T03:44:04Z</time>
+  <name>048</name>
+  <extensions>
+    <ogr:PlotID>K048</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.479348" lon="38.341233">
+  <ele>1590.046509</ele>
+  <time>2014-04-07T04:19:27Z</time>
+  <name>049</name>
+  <extensions>
+    <ogr:PlotID>K049</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.482118" lon="38.340968">
+  <ele>1615.403076</ele>
+  <time>2014-04-07T04:35:33Z</time>
+  <name>050</name>
+  <extensions>
+    <ogr:PlotID>K050</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.445" lon="38.363456">
+  <ele>1103.601196</ele>
+  <time>2014-04-09T03:42:19Z</time>
+  <name>051</name>
+  <extensions>
+    <ogr:PlotID>K051</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.431218" lon="38.355893">
+  <ele>1355.684448</ele>
+  <time>2014-04-09T05:06:36Z</time>
+  <name>052</name>
+  <extensions>
+    <ogr:PlotID>K052</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.429278" lon="38.357247">
+  <ele>1390.497925</ele>
+  <time>2014-04-09T05:31:05Z</time>
+  <name>053</name>
+  <extensions>
+    <ogr:PlotID>K053</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.394705" lon="38.332124">
+  <ele>1778.236938</ele>
+  <time>2014-04-13T04:43:31Z</time>
+  <name>054</name>
+  <extensions>
+    <ogr:PlotID>K054</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.285058" lon="37.433219">
+  <ele>1664.424561</ele>
+  <time>2014-04-20T03:27:12Z</time>
+  <name>054</name>
+  <extensions>
+    <ogr:PlotID>K054</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.284" lon="37.435417">
+  <ele>1728.445801</ele>
+  <time>2014-04-20T03:39:55Z</time>
+  <name>055</name>
+  <extensions>
+    <ogr:PlotID>K055</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.282824" lon="37.43803">
+  <ele>1732.825439</ele>
+  <time>2014-04-20T03:57:12Z</time>
+  <name>056</name>
+  <extensions>
+    <ogr:PlotID>K056</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.281079" lon="37.440901">
+  <ele>1714.794556</ele>
+  <time>2014-04-20T04:14:06Z</time>
+  <name>057</name>
+  <extensions>
+    <ogr:PlotID>K057</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.275162" lon="37.441919">
+  <ele>1675.165039</ele>
+  <time>2014-04-20T04:36:39Z</time>
+  <name>058</name>
+  <extensions>
+    <ogr:PlotID>K058</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.281172" lon="37.436656">
+  <ele>1734.592163</ele>
+  <time>2014-04-20T05:20:02Z</time>
+  <name>059</name>
+  <extensions>
+    <ogr:PlotID>K059</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.27935" lon="37.436974">
+  <ele>1723.209961</ele>
+  <time>2014-04-20T05:34:32Z</time>
+  <name>060</name>
+  <extensions>
+    <ogr:PlotID>K060</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.278436" lon="37.435678">
+  <ele>1718.927002</ele>
+  <time>2014-04-20T05:51:49Z</time>
+  <name>061</name>
+  <extensions>
+    <ogr:PlotID>K061</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.279892" lon="37.434211">
+  <ele>1708.608032</ele>
+  <time>2014-04-20T06:09:29Z</time>
+  <name>062</name>
+  <extensions>
+    <ogr:PlotID>K062</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.280783" lon="37.432877">
+  <ele>1660.033813</ele>
+  <time>2014-04-20T06:26:22Z</time>
+  <name>063</name>
+  <extensions>
+    <ogr:PlotID>K063</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.326747" lon="37.470879">
+  <ele>1410.654419</ele>
+  <time>2014-04-22T04:13:26Z</time>
+  <name>064</name>
+  <extensions>
+    <ogr:PlotID>K064</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.338384" lon="37.474285">
+  <ele>1254.776489</ele>
+  <time>2014-04-22T04:55:00Z</time>
+  <name>065</name>
+  <extensions>
+    <ogr:PlotID>K065</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.343504" lon="37.462237">
+  <ele>1180.052246</ele>
+  <time>2014-04-22T06:00:37Z</time>
+  <name>066</name>
+  <extensions>
+    <ogr:PlotID>K066</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.35423" lon="37.462666">
+  <ele>1107.143677</ele>
+  <time>2014-04-22T06:25:28Z</time>
+  <name>067</name>
+  <extensions>
+    <ogr:PlotID>K067</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.386221" lon="37.439568">
+  <ele>789.208008</ele>
+  <time>2014-04-26T03:24:39Z</time>
+  <name>068</name>
+  <extensions>
+    <ogr:PlotID>K068</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.399933" lon="37.440247">
+  <ele>757.172852</ele>
+  <time>2014-04-26T03:54:00Z</time>
+  <name>069</name>
+  <extensions>
+    <ogr:PlotID>K069</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.404614" lon="37.447593">
+  <ele>753.030945</ele>
+  <time>2014-04-26T04:48:44Z</time>
+  <name>070</name>
+  <extensions>
+    <ogr:PlotID>K070</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.40145" lon="37.452675">
+  <ele>762.61261</ele>
+  <time>2014-04-26T05:18:55Z</time>
+  <name>071</name>
+  <extensions>
+    <ogr:PlotID>K071</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.349376" lon="37.336716">
+  <ele>862.293701</ele>
+  <time>2014-04-26T07:21:31Z</time>
+  <name>072</name>
+  <extensions>
+    <ogr:PlotID>K072</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.349804" lon="37.340175">
+  <ele>856.802307</ele>
+  <time>2014-04-26T07:42:28Z</time>
+  <name>073</name>
+  <extensions>
+    <ogr:PlotID>K073</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.282405" lon="37.458244">
+  <ele>1634.028198</ele>
+  <time>2014-04-27T03:43:51Z</time>
+  <name>074</name>
+  <extensions>
+    <ogr:PlotID>K074</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.280798" lon="37.458974">
+  <ele>1679.131714</ele>
+  <time>2014-04-27T03:53:43Z</time>
+  <name>075</name>
+  <extensions>
+    <ogr:PlotID>K075</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.279812" lon="37.460527">
+  <ele>1676.577759</ele>
+  <time>2014-04-27T04:09:15Z</time>
+  <name>076</name>
+  <extensions>
+    <ogr:PlotID>K076</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.27861" lon="37.46224">
+  <ele>1678.478149</ele>
+  <time>2014-04-27T04:25:22Z</time>
+  <name>077</name>
+  <extensions>
+    <ogr:PlotID>K077</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.278498" lon="37.459591">
+  <ele>1684.354858</ele>
+  <time>2014-04-27T04:46:15Z</time>
+  <name>078</name>
+  <extensions>
+    <ogr:PlotID>K078</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.278628" lon="37.458459">
+  <ele>1718.477051</ele>
+  <time>2014-04-27T05:06:09Z</time>
+  <name>079</name>
+  <extensions>
+    <ogr:PlotID>K079</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.277622" lon="37.456528">
+  <ele>1723.040039</ele>
+  <time>2014-04-27T05:19:15Z</time>
+  <name>080</name>
+  <extensions>
+    <ogr:PlotID>K080</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.280352" lon="37.457143">
+  <ele>1687.149658</ele>
+  <time>2014-04-27T05:48:16Z</time>
+  <name>081</name>
+  <extensions>
+    <ogr:PlotID>K081</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.286881" lon="37.45139">
+  <ele>1670.339478</ele>
+  <time>2014-04-27T06:33:46Z</time>
+  <name>082</name>
+  <extensions>
+    <ogr:PlotID>K082</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.381246" lon="38.345749">
+  <ele>1629.957031</ele>
+  <time>2014-03-27T04:11:30Z</time>
+  <name>T001</name>
+  <extensions>
+    <ogr:PlotID>KT001</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.379838" lon="38.342171">
+  <ele>1644.621826</ele>
+  <time>2014-03-27T05:00:22Z</time>
+  <name>002</name>
+  <extensions>
+    <ogr:PlotID>K002</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.38961" lon="38.350801">
+  <ele>1519.802612</ele>
+  <time>2014-03-27T05:32:12Z</time>
+  <name>003</name>
+  <extensions>
+    <ogr:PlotID>K003</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.388398" lon="38.354144">
+  <ele>1471.609253</ele>
+  <time>2014-03-27T06:03:02Z</time>
+  <name>004</name>
+  <extensions>
+    <ogr:PlotID>K004</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.512264" lon="38.385529">
+  <ele>863.448364</ele>
+  <time>2014-03-28T05:47:02Z</time>
+  <name>007</name>
+  <extensions>
+    <ogr:PlotID>K007</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.509876" lon="38.384781">
+  <ele>862.970154</ele>
+  <time>2014-03-28T05:52:41Z</time>
+  <name>008</name>
+  <extensions>
+    <ogr:PlotID>K008</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.504356" lon="38.376245">
+  <ele>871.13385</ele>
+  <time>2014-03-28T06:30:14Z</time>
+  <name>009</name>
+  <extensions>
+    <ogr:PlotID>K009</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.500826" lon="38.378679">
+  <ele>855.904053</ele>
+  <time>2014-03-28T07:10:52Z</time>
+  <name>010</name>
+  <extensions>
+    <ogr:PlotID>K010</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.500883" lon="38.380707">
+  <ele>847.890991</ele>
+  <time>2014-03-28T07:19:52Z</time>
+  <name>011</name>
+  <extensions>
+    <ogr:PlotID>K011</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.497877" lon="38.375442">
+  <ele>874.983887</ele>
+  <time>2014-03-28T07:51:36Z</time>
+  <name>012</name>
+  <extensions>
+    <ogr:PlotID>K012</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.44021" lon="37.449477">
+  <ele>719.714233</ele>
+  <time>2014-04-29T04:44:53Z</time>
+  <name>082</name>
+  <extensions>
+    <ogr:PlotID>K082</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.438756" lon="37.450392">
+  <ele>715.65094</ele>
+  <time>2014-04-29T04:57:42Z</time>
+  <name>083</name>
+  <extensions>
+    <ogr:PlotID>K083</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.43531" lon="37.447585">
+  <ele>716.084045</ele>
+  <time>2014-04-29T05:13:18Z</time>
+  <name>084</name>
+  <extensions>
+    <ogr:PlotID>K084</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.430499" lon="37.445455">
+  <ele>717.984985</ele>
+  <time>2014-04-29T05:37:18Z</time>
+  <name>085</name>
+  <extensions>
+    <ogr:PlotID>K085</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.430484" lon="37.45205">
+  <ele>721.339844</ele>
+  <time>2014-04-29T05:57:33Z</time>
+  <name>086</name>
+  <extensions>
+    <ogr:PlotID>K086</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.398266" lon="38.364981">
+  <ele>1387.843262</ele>
+  <time>2014-03-29T03:59:53Z</time>
+  <name>013</name>
+  <extensions>
+    <ogr:PlotID>K013</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.394354" lon="38.364881">
+  <ele>1338.54394499999989</ele>
+  <time>2014-03-29T04:23:19Z</time>
+  <name>014</name>
+  <extensions>
+    <ogr:PlotID>K014</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.392398" lon="38.367326">
+  <ele>1295.486816</ele>
+  <time>2014-03-29T04:52:35Z</time>
+  <name>015</name>
+  <extensions>
+    <ogr:PlotID>K015</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.399115" lon="38.370861">
+  <ele>1375.648193</ele>
+  <time>2014-03-29T05:44:11Z</time>
+  <name>016</name>
+  <extensions>
+    <ogr:PlotID>K016</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.404537" lon="38.365614">
+  <ele>1402.51647899999989</ele>
+  <time>2014-03-29T06:09:44Z</time>
+  <name>017</name>
+  <extensions>
+    <ogr:PlotID>K017</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.404328" lon="38.359936">
+  <ele>1403.882568</ele>
+  <time>2014-03-29T06:30:01Z</time>
+  <name>018</name>
+  <extensions>
+    <ogr:PlotID>K018</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.404168" lon="38.356747">
+  <ele>1419.134644</ele>
+  <time>2014-03-29T06:53:27Z</time>
+  <name>019</name>
+  <extensions>
+    <ogr:PlotID>K019</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.402665" lon="38.35466">
+  <ele>1451.688232</ele>
+  <time>2014-03-29T07:12:20Z</time>
+  <name>020</name>
+  <extensions>
+    <ogr:PlotID>K020</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.408111" lon="38.357846">
+  <ele>1437.150879</ele>
+  <time>2014-03-29T07:49:33Z</time>
+  <name>021</name>
+  <extensions>
+    <ogr:PlotID>K021</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.386357" lon="38.334785">
+  <ele>1674.477661</ele>
+  <time>2014-03-30T03:56:58Z</time>
+  <name>022</name>
+  <extensions>
+    <ogr:PlotID>K022</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.391787" lon="38.339406">
+  <ele>1692.738525</ele>
+  <time>2014-03-30T04:28:29Z</time>
+  <name>023</name>
+  <extensions>
+    <ogr:PlotID>K023</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.39526" lon="38.327093">
+  <ele>1719.015503</ele>
+  <time>2014-03-30T05:20:08Z</time>
+  <name>024</name>
+  <extensions>
+    <ogr:PlotID>K024</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.39565" lon="38.328248">
+  <ele>1774.5177</ele>
+  <time>2014-03-30T06:38:25Z</time>
+  <name>025</name>
+  <extensions>
+    <ogr:PlotID>K025</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.393367" lon="38.330863">
+  <ele>1734.369019</ele>
+  <time>2014-03-30T07:00:45Z</time>
+  <name>026</name>
+  <extensions>
+    <ogr:PlotID>K026</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.385196" lon="38.33778">
+  <ele>1700.672974</ele>
+  <time>2014-03-30T07:51:22Z</time>
+  <name>027</name>
+  <extensions>
+    <ogr:PlotID>K027</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.440145" lon="38.363687">
+  <ele>1158.772583</ele>
+  <time>2014-03-31T04:14:54Z</time>
+  <name>028</name>
+  <extensions>
+    <ogr:PlotID>K028</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.438013" lon="38.365486">
+  <ele>1178.774048</ele>
+  <time>2014-03-31T04:54:18Z</time>
+  <name>029</name>
+  <extensions>
+    <ogr:PlotID>K029</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.426623" lon="38.362448">
+  <ele>1428.105591</ele>
+  <time>2014-03-31T06:20:02Z</time>
+  <name>030</name>
+  <extensions>
+    <ogr:PlotID>K030</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.421583" lon="38.363846">
+  <ele>1463.06420899999989</ele>
+  <time>2014-03-31T06:37:40Z</time>
+  <name>031</name>
+  <extensions>
+    <ogr:PlotID>K031</ogr:PlotID>
+    <ogr:Authority>MartinJ</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.451906160027989" lon="37.45243626755839">
+  <extensions>
+    <ogr:PlotID>KD13</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.442118160914183" lon="37.450748681504287">
+  <extensions>
+    <ogr:PlotID>KD12</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.421979634001869" lon="37.451648727399814">
+  <extensions>
+    <ogr:PlotID>KD11</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.403978716091421" lon="37.444335854498689">
+  <extensions>
+    <ogr:PlotID>KD10</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.381815085914182" lon="37.441860728286002">
+  <extensions>
+    <ogr:PlotID>KD09</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.375852281856346" lon="37.4482735552916">
+  <extensions>
+    <ogr:PlotID>KD08</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.357626352472017" lon="37.461099209302795">
+  <extensions>
+    <ogr:PlotID>KD07</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.343450629617539" lon="37.469199622362495">
+  <extensions>
+    <ogr:PlotID>KD06</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.330624975606345" lon="37.470774702679655">
+  <extensions>
+    <ogr:PlotID>KD05</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.320836976492539" lon="37.467174519097568">
+  <extensions>
+    <ogr:PlotID>KD04</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.309473897061569" lon="37.462224266672195">
+  <extensions>
+    <ogr:PlotID>KD03</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.29484815125933" lon="37.457161508509877">
+  <extensions>
+    <ogr:PlotID>KD02</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.285622680830225" lon="37.455811439666604">
+  <extensions>
+    <ogr:PlotID>KD01</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.497335685033141" lon="38.381671374020058">
+  <extensions>
+    <ogr:PlotID>Plot2</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.504921734389786" lon="38.382446790913619">
+  <extensions>
+    <ogr:PlotID>Plot1</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.473953" lon="38.382952">
+  <extensions>
+    <ogr:PlotID>Plot5</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.462784" lon="38.371906">
+  <extensions>
+    <ogr:PlotID>Plot6</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.442134617199369" lon="38.362755171240302">
+  <extensions>
+    <ogr:PlotID>Plot7</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.428209" lon="38.359189">
+  <extensions>
+    <ogr:PlotID>Plot8</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.418875" lon="38.364086">
+  <extensions>
+    <ogr:PlotID>Plot9</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.359407" lon="38.339064">
+  <extensions>
+    <ogr:PlotID>Plot13</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.355279" lon="38.347385">
+  <extensions>
+    <ogr:PlotID>Plot14</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.38664" lon="38.330924">
+  <extensions>
+    <ogr:PlotID>Plot15</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.398908" lon="38.32441">
+  <extensions>
+    <ogr:PlotID>Plot16</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.404452" lon="38.311985">
+  <extensions>
+    <ogr:PlotID>Plot17</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.407368" lon="38.297643">
+  <extensions>
+    <ogr:PlotID>Plot18</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.404336" lon="38.299734">
+  <extensions>
+    <ogr:PlotID>Plot19</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.477179" lon="38.34072">
+  <extensions>
+    <ogr:PlotID>Plot20</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.477385374470166" lon="38.378894884676463">
+  <extensions>
+    <ogr:PlotID>Plot4</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.496296659278675" lon="38.384409147129922">
+  <extensions>
+    <ogr:PlotID>Plot3</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.400839" lon="38.364258">
+  <extensions>
+    <ogr:PlotID>Plot10</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.39742" lon="38.362606">
+  <extensions>
+    <ogr:PlotID>Plot11</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+<wpt lat="-3.381643" lon="38.343494">
+  <extensions>
+    <ogr:PlotID>Plot12</ogr:PlotID>
+    <ogr:Authority>DickensO</ogr:Authority>
+  </extensions>
+</wpt>
+</gpx>
