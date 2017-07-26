@@ -1,7 +1,9 @@
 
 This is the code to the analysis of my MSc Thesis conducted at CMEC Copenhagen.
-
+*Note that this code is quite unstructured and jumps between files.
+Although it should be reproducible I am mainly pushing it to Github as personal backup!*
 Collected field data can be found here: [Fielddata](https://figshare.com/articles/Collected_raw_field_data/5241250/1)
+
 Two posters describing the project can be found here:
 1. [Poster 1](https://figshare.com/articles/African_species_response_to_land_use_change_Assessing_the_match_between_an_Africa_wide_model_and_fine_scale_field_data/1613887)
 2. [Poster 2](https://figshare.com/articles/A_comparison_of_broad-scale_model_estimates_with_independent_bird_data_from_East-Africa/4231379)
